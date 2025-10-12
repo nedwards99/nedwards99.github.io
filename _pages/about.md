@@ -4,12 +4,6 @@ title: about
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 show_header: false
-_styles: |
-  .profile .profile-address {
-    text-align: center;
-    line-height: 1.4;
-    margin-top: 0.75rem;
-  }
 
 profile:
   align: right
