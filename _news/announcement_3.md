@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 25-09-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Gave an invited talk on RExBench to Ludwig Schmidt's group at Stanford/UW, together with [Yukyung Lee](https://yukyunglee.com/)! :t-rex:
