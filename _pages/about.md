@@ -28,8 +28,8 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm Nick, a first-year PhD student at the University of Vienna supervised by [Sebastian Schuster](https://sebschu.com/). I'm interested in evaluating the abilities of LLM coding agents (see our work on [RExBench](https://rexbench.com/)), and improving the human-agent interface for coding-related tasks.
+Hi! I'm Nick, a first-year PhD student at the University of Vienna supervised by [Sebastian Schuster](https://sebschu.com/). I'm interested in evaluating the abilities of LLM coding agents (see our work on [RExBench](https://rexbench.com/)), and developing more effective frameworks for human-agent collaboration.
 
 Previously, I received a BA in Linguistics from the University of Cambridge, followed by an MSc in Speech & Language Processing from the University of Edinburgh. During my time at Edinburgh, I did research in emergent communication between neural networks with [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) and [Henry Conklin](https://hconklin.com/).
 
-Contact: `nicholas.edwards[æt]univie.ac.at`
+Get in touch here: `nicholas.edwards[æt]univie.ac.at`
