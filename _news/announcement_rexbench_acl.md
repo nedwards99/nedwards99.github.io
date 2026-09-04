@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 RExBench accepted to the main [ACL](https://2026.aclweb.org/) conference! Excited to share this work in San Diego!
+🎉 RExBench accepted to the main [ACL 2026](https://2026.aclweb.org/) conference! Excited to share this work in San Diego!
