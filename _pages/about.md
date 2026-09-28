@@ -115,7 +115,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm Nick, a first-year PhD student at the University of Vienna supervised by [Sebastian Schuster](https://sebschu.com/). I'm interested in evaluating the abilities of LLM coding agents (see our work on [RExBench](https://rexbench.com/)), and developing more effective frameworks for human-agent collaboration.
+Hi! I'm Nick, a second-year PhD student at the University of Vienna supervised by [Sebastian Schuster](https://sebschu.com/). I'm interested in evaluating and improving LLM agents as collaborators, currently focusing on coding agents. My work studies when agents should ask for clarification versus proceed autonomously (see [Ask or Assume?](http://arxiv.org/abs/2603.26233)), and how they handle users interrupting and correcting them mid-task in real-world developer-agent interactions. I've also worked on evaluating agents' ability to implement AI research ([RExBench](https://rexbench.com/)).
 
 Previously, I received a BA in Linguistics from the University of Cambridge, followed by an MSc in Speech & Language Processing from the University of Edinburgh. During my time at Edinburgh, I did research in emergent communication between neural networks with [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) and [Henry Conklin](https://hconklin.com/).
 

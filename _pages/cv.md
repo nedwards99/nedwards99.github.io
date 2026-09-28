@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Academic_CV_23062026.pdf
+cv_pdf: NEdwards_CV.pdf
 ---
 {% if page.cv_pdf %}
 <p>See my CV <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">here</a>.</p>

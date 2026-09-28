@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Ask or Assume? accepted to [EMNLP 2026](https://2026.emnlp.org/) Findings! See you in Budapest!
+🎉 Ask or Assume? accepted to [EMNLP 2026](https://2026.emnlp.org/) Findings and the [REALM](https://realm-workshop.github.io/) workshop! See you in Budapest!
